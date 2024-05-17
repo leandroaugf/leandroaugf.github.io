@@ -2,11 +2,19 @@
     color: white;
     background: #ffc107;
 }
+a, a:hover {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
 .caixa {
     padding: 60px 0;
     border: 1px solid #e5e5e5;
 }
 footer a {
     margin: 5px 15px;
-    text-decoration: none;
+}
+#icons a {
+    font-size: 1.2em;
 }
